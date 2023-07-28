@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685730345111",
+    "project_id": "mama-recipe-16e57",
+    "storage_bucket": "mama-recipe-16e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685730345111:android:30aec7a5e658df69de79d2",
+        "android_client_info": {
+          "package_name": "com.coba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685730345111-e3evlau8fp5fiqkqmh3sck3g369r9511.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvWxo5_Whs8SOEFOvvb7pkxi31kKOTlFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685730345111-e3evlau8fp5fiqkqmh3sck3g369r9511.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
